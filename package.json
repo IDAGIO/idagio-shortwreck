@@ -1,0 +1,24 @@
+{
+  "name": "@idagio/shortwreck",
+  "version": "1.0.0",
+  "description": "A nice short wrapper for Wreck",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IDAGIO/idagio-shortwreck.git"
+  },
+  "keywords": [
+    "wreck",
+    "http",
+    "client"
+  ],
+  "author": "IDAGIO GmbH (https://www.idagio.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IDAGIO/idagio-shortwreck/issues"
+  },
+  "homepage": "https://github.com/IDAGIO/idagio-shortwreck#readme",
+  "dependencies": {
+    "wreck": "^7.0.0"
+  }
+}
